@@ -11,8 +11,9 @@ class Main {
         int num2 = entrada.nextInt(); // lee el segundo número
 
         System.out.println("Los números ingresados son: " + num1 + " y " + num2);
-
+        
+        
     }
+
+   
 }
-
-
